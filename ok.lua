@@ -17,7 +17,7 @@ Blacklisted = {'30EA90BC-89EE-49A7-8F5D-F840F3971F91',
 'ef617514-041c-4ac5-955b-c9d6b25c22f3',
 '816d40cc-cc74-4602-8233-9c1ea82856fc',
 },
-Whitelisted = {'twhitelist test 2'}
+Whitelisted = {'twhitelist test 2'},
 E = false,
 R = true,
 BlacklistBans = true,
